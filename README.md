@@ -19,13 +19,11 @@ gifanimatdedrawble框架已编译请到dist目录下载
         android:layout_centerHorizontal="true"
         android:layout_marginTop="98dp" />
     
-       
-
 主程序：
-private ImageView imageview;
+
+	private ImageView imageview;
 	private ImageButton imagebutton;
 	private GifAnimationDrawable little, big;
-	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -50,13 +48,6 @@ private ImageView imageview;
 		}catch(IOException ioe){
 			
 		}
-	}
-
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.display_gi, menu);
-		return true;
 	}
 
 	@Override
