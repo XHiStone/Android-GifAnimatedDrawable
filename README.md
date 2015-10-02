@@ -3,7 +3,7 @@ Android-GifAnimatedDrawable加载Gif动态图片框架
 
 gifanimatdedrawble框架已编译请到dist目录下载
 
-使用方法
+使用方法：
 	private ImageView imageview;
 	private ImageButton imagebutton;
 	private GifAnimationDrawable little, big;
