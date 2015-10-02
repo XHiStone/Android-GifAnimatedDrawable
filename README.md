@@ -3,8 +3,7 @@ Android-GifAnimatedDrawable加载Gif动态图片框架
 
 gifanimatdedrawble框架已编译请到dist目录下载
 
-使用方法：
-	<ImageButton
+使用方法：<ImageButton
         android:id="@+id/imagebutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
