@@ -1,12 +1,9 @@
 # Android-GifAnimatedDrawable
 Android-GifAnimatedDrawable加载Gif动态图片框架
-
 gifanimatdedrawble框架已编译请到dist目录下载
-
 使用方法：
-
 布局文件：
-<ImageButton
+        <ImageButton
         android:id="@+id/imagebutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -15,7 +12,7 @@ gifanimatdedrawble框架已编译请到dist目录下载
         android:layout_marginLeft="15dp"
         android:layout_marginTop="16dp" />
 
- <ImageView
+        <ImageView
         android:id="@+id/imageview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -23,9 +20,12 @@ gifanimatdedrawble框架已编译请到dist目录下载
         android:layout_centerHorizontal="true"
         android:layout_marginTop="98dp" />
         
-      
+
+
+
 主程序：
-private ImageView imageview;
+
+        private ImageView imageview;
 	private ImageButton imagebutton;
 	private GifAnimationDrawable little, big;
 	
