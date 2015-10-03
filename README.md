@@ -53,6 +53,7 @@ public class DisplayGIF extends Activity implements OnClickListener
 		big.setVisible(true, true);
 	}
 }
+```
 =
 # ANT打包方法
 -
@@ -184,3 +185,4 @@ public class DisplayGIF extends Activity implements OnClickListener
     </target>
 
 </project>
+```
