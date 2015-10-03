@@ -1,8 +1,10 @@
 # Android-GifAnimatedDrawable
 Android-GifAnimatedDrawable加载Gif动态图片框架
-# 使用方法
+##使用方法
 下载dist文件夹中sdk框架，添加到项目lib中
-# 主Activity中调用相关类实例化对象
+##Activity中调用相关类实例化对象
+```
+//调用gifanimatdedrawble框架
 public class DisplayGIF extends Activity implements OnClickListener 
 {
 	private ImageView imageview;
