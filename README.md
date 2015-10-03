@@ -1,7 +1,7 @@
 # Android-GifAnimatedDrawable
 Android-GifAnimatedDrawable加载Gif动态图片框架
 ##使用方法
-下载dist文件夹中[sdk框架](50c887e2f74fb16f7f561ff0f6f2f16d0d0ce638 "gifanimatdedrawble框架SDK")，添加到项目lib中
+下载dist文件夹中[sdk框架](Android-GifAnimatedDrawable/dist/gifanimationdrawable.jar "gifanimatdedrawble框架SDK")，添加到项目lib中
 ##Activity中调用相关类实例化对象
 ```
 //调用gifanimatdedrawble框架
