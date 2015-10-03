@@ -57,7 +57,7 @@ public class DisplayGIF extends Activity implements OnClickListener
 =
 # ANT打包方法
 -
-##到官网下载[apache-ant-1.9.6](http://archive.apache.org/dist/ant/binaries/ "所有版本")解压并配置好环境变量
+##到官网下载[apache-ant-1.9.6](http://archive.apache.org/dist/ant/binaries/ "所有版本")解压并[配置好环境变量](http://www.cnitblog.com/intrl/archive/2009/04/11/56254.html "【工具】ANT的安装和配置（windows")
 ```
 <?xml version="1.0"?>
 <!-- 定义生成文件的project根元素，默认target为空，定义三个简单属性 -->
